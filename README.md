@@ -2,7 +2,7 @@
 
 # 🛍️ Mall Customer Segmentation using Unsupervised Machine Learning
 
-<img src="Plots/banner.png" width="100%" alt="Mall Customer Segmentation Banner"/>
+<img src="/banner.png" width="100%" alt="Mall Customer Segmentation Banner"/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
